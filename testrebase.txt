@@ -4,4 +4,6 @@ rebase 提交 B
 
 主干 提交  C
 
+rebase 提交 D
+
 主干 提交 E
